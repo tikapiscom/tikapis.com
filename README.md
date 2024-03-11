@@ -6,6 +6,9 @@ Our services support both iOS and web versions, offering advanced signature and 
 
 TikTok Mobile Signature & Web Signature: Secure your app's data integrity and interactions with TikTok's APIs. Our services support both mobile and web applications, providing robust security measures.
 
+
+
+
 X-Argus: Ensures data integrity with its encryption algorithm.
 X-Ladon: Protects against unauthorized access.
 X-Gorgon: Offers cryptographic hash functions for authentication and integrity.
@@ -15,11 +18,15 @@ MSToken & _signature: Essential for web authentication and API requests.
 X-Bogus: Manages web application errors and reports issues efficiently.
 Device Registration: Compatible with TikTok's security protocols, enabling device registration with features like:
 
+
+
 TTEncrypt: Secures data transmission.
 MSSDK encrypt/decrypt: Provides encryption and decryption using MSSDK.
 Get seed: Retrieves seed data for enhanced security measures.
 Captcha Solutions
 Our integration also offers solutions for various captcha types, ensuring smooth user experiences:
+
+
 
 Slide Captcha
 Rotate Captcha
