@@ -28,12 +28,18 @@ RapidAPI Access
 For easy integration and instant access to our TikTok API, visit our API on RapidAPI:
 [https://rapidapi.com/tikapiscom/api/tiktok-tikapis-com](https://rapidapi.com/tikapiscom/api/tiktok-tikapis-com)
 
+
+
 Join Our Community
 Stay updated and get support by joining our community:
 
 Telegram Group: [Join Now](https://t.me/tikapiscom_group)
 Discord Server: [Join Now](https://discord.com/invite/9yPjQBSyDg)
 Contact Us: R[each Out](https://t.me/tikapiscom)
+
+
+
+
 Supported Platforms
 Web: Our API integration supports web applications, providing comprehensive tools and features for seamless operation.
 iOS: Fully compatible with iOS platforms, ensuring your mobile applications are secure and efficiently integrated with TikTok's services.
